@@ -1,0 +1,27 @@
+{
+  "name": "array-enhanced-tg",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "npx tsc ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogards95TG/array-enhanced.git"
+  },
+  "author": "nogards95TG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nogards95TG/array-enhanced/issues"
+  },
+  "homepage": "https://github.com/nogards95TG/array-enhanced#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
