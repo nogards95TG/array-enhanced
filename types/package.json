@@ -1,0 +1,15 @@
+{
+  "name": "@types/array-enhanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nogards95TG",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
